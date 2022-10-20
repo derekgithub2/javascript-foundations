@@ -13,6 +13,7 @@ class Dragon {
   // eat function: first start internal counter 
   // if this.hungry is less than 3, then return true, else return false
 
+  
   eat () {
     var count = 0;
     if (count < 3) {
