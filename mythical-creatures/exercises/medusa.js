@@ -16,9 +16,7 @@ class Medusa {
             var freedPerson = new Person(savedVictim[0].name)
             freedPerson.mood = 'relieved'
             return freedPerson
-            // return new Person(savedVictim[0].name, savedVictim[0].mood = 'relieved')
         }
-        // console.log(this.statues)
     }
 }
 
