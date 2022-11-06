@@ -17,6 +17,7 @@ class Medusa {
             freedPerson.mood = 'relieved'
             return freedPerson
         }
+        console.log(this.statues)
     }
 }
 
